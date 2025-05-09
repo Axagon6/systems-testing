@@ -1,0 +1,12 @@
+# Doxyfile 1.9.1
+
+PROJECT_NAME           = "Binary Tree Project"
+OUTPUT_DIRECTORY       = html
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+EXTRACT_ALL            = YES
+RECURSIVE              = YES
+FILE_PATTERNS          = *.py
+INPUT                  = .
+QUIET                  = YES
+GENERATE_TREEVIEW      = YES
